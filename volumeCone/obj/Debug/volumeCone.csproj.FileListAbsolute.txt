@@ -1,0 +1,8 @@
+D:\319-ConceptionApplication\Code VS\volumeCone\volumeCone\bin\Debug\volumeCone.exe.config
+D:\319-ConceptionApplication\Code VS\volumeCone\volumeCone\bin\Debug\volumeCone.exe
+D:\319-ConceptionApplication\Code VS\volumeCone\volumeCone\bin\Debug\volumeCone.pdb
+D:\319-ConceptionApplication\Code VS\volumeCone\volumeCone\obj\Debug\volumeCone.csproj.AssemblyReference.cache
+D:\319-ConceptionApplication\Code VS\volumeCone\volumeCone\obj\Debug\volumeCone.csproj.SuggestedBindingRedirects.cache
+D:\319-ConceptionApplication\Code VS\volumeCone\volumeCone\obj\Debug\volumeCone.csproj.CoreCompileInputs.cache
+D:\319-ConceptionApplication\Code VS\volumeCone\volumeCone\obj\Debug\volumeCone.exe
+D:\319-ConceptionApplication\Code VS\volumeCone\volumeCone\obj\Debug\volumeCone.pdb
