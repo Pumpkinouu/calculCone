@@ -4,7 +4,7 @@ Ce programme permet de calculer le volume d'un cône. On demande donc la hauteur
 
 ## Programme
 
-Comment ouvrrir le programme
+Comment voir le programme
 
 ```bash
   calculCone\volumeCone\Program.cs
